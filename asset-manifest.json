@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portyparallax/static/css/main.5d1aeece.chunk.css",
+    "main.js": "/portyparallax/static/js/main.f3d93e66.chunk.js",
+    "main.js.map": "/portyparallax/static/js/main.f3d93e66.chunk.js.map",
+    "runtime-main.js": "/portyparallax/static/js/runtime-main.73caed2a.js",
+    "runtime-main.js.map": "/portyparallax/static/js/runtime-main.73caed2a.js.map",
+    "static/js/2.d3060b9d.chunk.js": "/portyparallax/static/js/2.d3060b9d.chunk.js",
+    "static/js/2.d3060b9d.chunk.js.map": "/portyparallax/static/js/2.d3060b9d.chunk.js.map",
+    "index.html": "/portyparallax/index.html",
+    "precache-manifest.604d0236f2ba821ef75e3968d932301c.js": "/portyparallax/precache-manifest.604d0236f2ba821ef75e3968d932301c.js",
+    "service-worker.js": "/portyparallax/service-worker.js",
+    "static/css/main.5d1aeece.chunk.css.map": "/portyparallax/static/css/main.5d1aeece.chunk.css.map",
+    "static/js/2.d3060b9d.chunk.js.LICENSE.txt": "/portyparallax/static/js/2.d3060b9d.chunk.js.LICENSE.txt",
+    "static/media/cloud.305b7b7b.svg": "/portyparallax/static/media/cloud.305b7b7b.svg",
+    "static/media/data_analytics_.f9c8b127.svg": "/portyparallax/static/media/data_analytics_.f9c8b127.svg",
+    "static/media/data_process.8c7ae197.svg": "/portyparallax/static/media/data_process.8c7ae197.svg",
+    "static/media/mountain.54c3adc5.svg": "/portyparallax/static/media/mountain.54c3adc5.svg",
+    "static/media/process_building.921df655.svg": "/portyparallax/static/media/process_building.921df655.svg",
+    "static/media/sun.fafe0d09.svg": "/portyparallax/static/media/sun.fafe0d09.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73caed2a.js",
+    "static/js/2.d3060b9d.chunk.js",
+    "static/css/main.5d1aeece.chunk.css",
+    "static/js/main.f3d93e66.chunk.js"
+  ]
+}
