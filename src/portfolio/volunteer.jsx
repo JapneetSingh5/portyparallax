@@ -30,7 +30,9 @@ class Volunteer extends React.Component {
         return (
             <div className="portfolioPage volunteerPage">
             <div className="portfolioPageSplit rightVolunteer">
+                <div className="rightVolunteerTitle">
                 Volunteering | POR
+                </div>
             </div>
                 <div className="portfolioPageSplit leftVolunteer">
                     {volunteer.map((volunteerPlace, index) => (
