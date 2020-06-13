@@ -29,10 +29,10 @@ function App(props) {
     const { profile } = appData;
     return (
       <Parallax  pages={4} >
-   <ParallaxLayer offset={0} speed={0}  style={{ backgroundColor: '#702632' }} />
-   <ParallaxLayer offset={1} speed={0}  style={{ backgroundColor: '#40434E' }} />
-   <ParallaxLayer offset={2} speed={0}  style={{ backgroundColor: '#40434E' }} />
-   <ParallaxLayer offset={3} speed={0}  style={{ backgroundColor: '#381460' }} />
+   <ParallaxLayer offset={0} speed={0}  style={{ backgroundColor: '#00745F' }} />
+   <ParallaxLayer offset={1} speed={0}  style={{ backgroundColor: '#0A1034' }} />
+   <ParallaxLayer offset={2} speed={0}  style={{ backgroundColor: '#65B0B1' }} />
+   <ParallaxLayer offset={3} speed={0}  style={{ backgroundColor: '#424C5E' }} />
 
    <ParallaxLayer offset={0} speed={0}>
     <HeaderBackground />
